@@ -1,0 +1,56 @@
+#nome_project{
+    height : 30px;
+}
+#navbar{
+    background-color: ;
+}
+
+body{
+    background-color: white;
+}
+
+#capa{
+    position: absolute;
+    top: 200px;
+}
+#obtem_largura{
+    width: 200px;
+}
+#obtem_comprimento{
+    width: 200px;
+}
+#Campo_name_project{
+    background-color: green;
+    position: absolute;
+    left: 290px;
+    top: 100px;
+}
+#exib_name_project{
+    color: black;
+}
+#Campo_Formulario{
+    background-color: darkgrey;
+    position: absolute;
+    left: 180px;
+    top: 350px;
+    border: 1px solid black;
+}
+#campo_exibiResult{
+    background-color: red;
+    border: 2px solid black;
+}
+#campo_baixar{
+    background-color: aqua;
+    border: 2px solid black;
+}
+/*----------------------------------------------------------------------------*/
+#corpo_tuto{
+    position: absolute;
+    top: 100px;
+}
+#campo_video{
+    border: 1px solid black;
+}
+#avalia_qualit_video{
+    border: 1px solid black;
+}
